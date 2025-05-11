@@ -10,3 +10,8 @@ A responsive restaurant website built using **HTML**, **CSS**. This project show
 - Sections: Home, Menu, About, Contact
 
 
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MeghanaReddy777/foodmunch.git
